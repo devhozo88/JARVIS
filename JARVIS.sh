@@ -1,4 +1,8 @@
 #!/bin/bash
+pkg install mpv -y
+clear
+termux-setup-storage -y
+clear
 
 # Menu untuk memilih fitur
 clear
